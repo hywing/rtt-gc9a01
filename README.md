@@ -44,7 +44,7 @@ GPIO及SPI接口设置
 (97) DC PIN number for example : 3*32+1
 (126) RES PIN number for example : 3*32+30
 (35) CS PIN number for example : 1*32+3
-[*] Enable gc9a01 sample
+[*] Enable gc9a01 example
     Version (latest)  --->
 ```
 

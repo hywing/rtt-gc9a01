@@ -41,9 +41,9 @@ GPIO及SPI接口设置
 
 ```
 (spi0) SPI bus name
-(97) DC PIN number for example : 3*32+1
-(126) RES PIN number for example : 3*32+30
-(35) CS PIN number for example : 1*32+3
+(97) DC PIN number for example in frdm-mcxa153 board P3_1 -> 3*32+1
+(126) RES PIN number for example in frdm-mcxa153 board P3_30 -> 3*32+30
+(35) CS PIN number for example in frdm-mcxa153 board P1_3 -> 1*32+3
 [*] Enable gc9a01 example
     Version (latest)  --->
 ```
@@ -63,4 +63,8 @@ scons --target=mdk5
 
 - 维护：hywing@aliyum.com
 - 主页：<https://github.com/hywing/rtt-gc9a01.git>
+
+## 5、说明
+
+这个软件包在frdm-mcxa153开发板上面测试通过
 

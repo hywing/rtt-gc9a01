@@ -57,7 +57,35 @@ scons --target=mdk5
 
 ## 3、API 说明
 
+### 背景颜色
 
+```c
+void LCD_Fill(u16 xsta,u16 ysta,u16 xend,u16 yend,u16 color);
+```
+
+### 绘制点
+
+```c
+void LCD_DrawPoint(u16 x,u16 y,u16 color);
+```
+
+### 绘制线段
+
+```c
+void LCD_DrawLine(u16 x1,u16 y1,u16 x2,u16 y2,u16 color);
+```
+
+### 绘制矩形
+
+```c
+void LCD_DrawRectangle(u16 x1, u16 y1, u16 x2, u16 y2,u16 color);
+```
+
+### 绘制圆形
+
+```c
+void Draw_Circle(u16 x0,u16 y0,u8 r,u16 color);
+```
 
 ## 4、联系方式
 

@@ -94,6 +94,6 @@ void Draw_Circle(u16 x0,u16 y0,u8 r,u16 color);
 
 ## 5、说明
 
-这个软件包在frdm-mcxa153开发板上面测试通过
+这个软件包在NXP [FRDM-MCXA153](https://www.nxp.com.cn/design/design-center/development-boards-and-designs/FRDM-MCXA153)开发板上面测试通过
 
 ![](./intro.png)

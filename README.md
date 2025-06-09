@@ -89,7 +89,7 @@ void Draw_Circle(u16 x0,u16 y0,u8 r,u16 color);
 
 ## 4、联系方式
 
-- 维护：hywing@aliyum.com
+- 维护：hywing.sir@qq.com
 - 主页：<https://github.com/hywing/rtt-gc9a01.git>
 
 ## 5、说明
